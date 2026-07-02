@@ -1,0 +1,51 @@
+Lean Inception — AgendaFácil
+==============================
+
+Board Miro (Lean Inception completa + MVP Canvas):
+[URL A SER PREENCHIDA APÓS CRIAR O BOARD NO MIRO]
+
+Instruções:
+1. Acesse https://miro.com e faça login
+2. Clique em "+ New board" e busque o template "Lean Inception Workshop"
+   (template gratuito em inglês — pode preencher em português)
+   Referência: https://miro.com/miroverse/lean-inception-workshop/
+3. Preencha cada etapa com o conteúdo disponível no product-backlog.pdf (seção 2)
+4. Substitua este arquivo com a URL pública do board criado
+
+Conteúdo a preencher no Miro:
+-------------------------------
+Etapa 1 — Visão do Produto
+  Para donos de pequenos salões de beleza e barbearias
+  que perdem clientes e receita por não ter agendamento online,
+  o AgendaFácil é uma plataforma SaaS de agendamento
+  que permite agendamento 24/7 e reduz faltas com confirmações automáticas.
+  Ao contrário de planilhas, WhatsApp e cadernos,
+  nosso produto oferece experiência profissional e integrada a partir de R$49/mês.
+
+Etapa 2 — É / Não É / Faz / Não Faz
+  (ver product-backlog.pdf, seção 2.2)
+
+Etapa 3 — Personas
+  - Marcos (Dono de Barbearia, 35 anos)
+  - Carla (Cabeleireira Autônoma, 28 anos)
+  - Amanda (Cliente Final, 30 anos)
+  (ver product-backlog.pdf, seção 2.3)
+
+Etapa 4 — Jornada do Usuário
+  Cliente: Acessa link → Escolhe serviço → Seleciona profissional →
+           Vê horários → Confirma → Recebe e-mail
+  Gestor:  Login → Visualiza agenda → Gerencia agendamentos
+
+Etapa 5 — Brainstorm de Funcionalidades
+  (20 funcionalidades mapeadas — ver product-backlog.pdf)
+
+Etapa 6 — Revisão Técnica, Negócio e UX
+  (classificação por esforço/valor — ver product-backlog.pdf)
+
+Etapa 7 — Sequenciador
+  Onda 1 (MVP): Auth, Config salão, Agendamento, Agenda, E-mail confirmação
+  Onda 2 (Incr. 1): SMS/WhatsApp, Cancelamento, Histórico
+  Onda 3 (Incr. 2): Relatórios, Cobrança, Onboarding
+
+Etapa 8 — MVP Canvas
+  (ver product-backlog.pdf, seção 2.4)
