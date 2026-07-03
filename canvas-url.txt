@@ -2,7 +2,7 @@ Lean Inception — AgendaFácil
 ==============================
 
 Board Miro (Lean Inception completa + MVP Canvas):
-[URL A SER PREENCHIDA APÓS CRIAR O BOARD NO MIRO]
+https://miro.com/app/board/uXjVH_MYhYc=/
 
 Instruções:
 1. Acesse https://miro.com e faça login
